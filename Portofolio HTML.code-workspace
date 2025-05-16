@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Login Modern"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portofolio HTML"
+	}
+}
